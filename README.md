@@ -21,7 +21,7 @@ __Feb. 28'23__: All of the design were created and figma prototype.
 
 __Mar. 1'23__: I watched few videos from my YT playlist, which I talked in this [section](#youtube---tutorials).
 
-__Mar. 2'23__: I created the GitHub Repo. and _commit_: 7a02a05, 09db990, e1d3be8 in Branch [Version 1](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/tree/Version-1)
+__Mar. 2'23__: I created the GitHub Repo. and _commit_: \[[7a02a05](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/commit/7a02a050dace838ee68ddf401d83493b53504c4d), [09db990](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/commit/09db9901305de4aaf703c6714465e6ebdc138fd1), [e1d3be8](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/commit/e1d3be851ec93d10808b7db19dee89231a997aea), [548ea07](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/commit/548ea07a930064d80d55298b60574c9e43be2b73), [4dcacb8](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/commit/4dcacb8167c212893173172d03da178c5db1db57), [e5a131c](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/commit/e5a131c7fddd63ce6d749b417aaee28b3df4a9c6), [4388263](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/commit/43882639926ec238701ccda41b3cb9706066438d), [0ef8a1f](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/commit/0ef8a1f122bdc18068fb6444b6ad74afefee1548)] in Branch [Version 1](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/tree/Version-1). _This commit is not included as it's imposible to get the link or SHA before commiting!_
 
 
 ### Tools
