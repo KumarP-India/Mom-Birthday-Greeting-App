@@ -67,7 +67,7 @@ IntelliJ IDEA ([android Studio](https://developer.android.com/studio)): Default 
 
 #### Youtube - Tutorials
 
-I've created this [Youtube playlist](https://youtube.com/playlist?list=PLCqikY1Z3O6E7F5Scg8F6gu4h4TZeXoCg), which contained every video that I watched for creating this Project. Note that I've removed every video that wasn't helpful for this Project. And finaly I would like to shoutout to [Youtuber Philipp Lackner](https://www.youtube.com/@PhilippLackner), as you might have noticed that all of the videos in the [playlist](https://youtube.com/playlist?list=PLCqikY1Z3O6E7F5Scg8F6gu4h4TZeXoCg) is from [him]([https://youtube.com/playlist?list=PLCqikY1Z3O6E7F5Scg8F6gu4h4TZeXoCg](https://www.youtube.com/@PhilippLackner)) and as matter of fact acording to me [he](https://www.youtube.com/@PhilippLackner) is the best youtuber for Android Development and most of time I only watch [him](https://www.youtube.com/@PhilippLackner).
+I've created this [Youtube playlist](https://youtube.com/playlist?list=PLCqikY1Z3O6E7F5Scg8F6gu4h4TZeXoCg), which contained every video that I watched for creating this Project. Note that I've removed every video that wasn't helpful for this Project. And finaly I would like to shoutout to [Youtuber Philipp Lackner](https://www.youtube.com/@PhilippLackner), as you might have noticed that all of the videos in the [playlist](https://youtube.com/playlist?list=PLCqikY1Z3O6E7F5Scg8F6gu4h4TZeXoCg) is from [him](https://www.youtube.com/@PhilippLackner) and as matter of fact acording to me [he](https://www.youtube.com/@PhilippLackner) is the best youtuber for Android Development and most of time I only watch [him](https://www.youtube.com/@PhilippLackner).
 
 
 ## For You
