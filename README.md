@@ -5,13 +5,13 @@ The app layout is simple and like potrait presentation. And change is done with 
 
 ## Frames
 
-You can view the frames from the [PDF file](/Design Files/App - Design Prototype.pdf)
+You can view the frames from the [PDF file](/Design%20Files/App%20-%20Design%20Prototype.pdf)
 
-But [PDF file](/Design Files/App - Design Prototype.pdf) can not include GIF, for viewing GIF you can view from one of below:
+But [PDF file](/Design%20Files/App%20-%20Design%20Prototype.pdf) can not include GIF, for viewing GIF you can view from one of below:
 
 1. From the my [figma link](https://www.figma.com/proto/HkUSI31MVv0qXiG7rw6Zb7/App?node-id=1%3A58&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2). This link also let's you give you a draft of inrection to expect from the app.
 
-2. Or you can just use my [.fig file](/Design Files/App - Design Prototype.fig). This can imadiately give you acess to all my design and you can edit them if you want.
+2. Or you can just use my [.fig file](/Design%20Files/App%20-%20Design%20Prototype.fig). This can imadiately give you acess to all my design and you can edit them if you want.
 
 
 ## Progress
@@ -22,7 +22,7 @@ Feb. 28'23: All of the design was created and figma prototype.
 
 Mar. 1: I watched Few videos from my YT playlist, which I talked in this [section](#youtube---tutorials).
 
-Mar. 2: I created the GitHub Repo. and commit: \[7a02a05, 09db990, e1d3be8] in Branch [Version 1](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/tree/Version-1)
+Mar. 2: I created the GitHub Repo. and commit: 7a02a05, 09db990, e1d3be8 in Branch [Version 1](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/tree/Version-1)
 
 
 ### Tools
@@ -38,7 +38,7 @@ I used some Help tools, which I talked in this [section](#Help)
 
 I found designs and inspiration mostly from [Dribbble](https://dribbble.com/). But few of them were from [Figma community](https://www.figma.com/community), [Behance](https://www.behance.net/), [Screenlane](https://screenlane.com/) & [Sketchappsources](https://www.sketchappsources.com/).
 
-Now for my second page, which is third page in my [design](/Design Files/App - Design Prototype.fig) & [PDF file](/Design Files/App - Design Prototype.pdf) and [design link](https://www.figma.com/proto/HkUSI31MVv0qXiG7rw6Zb7/App?node-id=1%3A58&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2), I was looking for Background image. I was trying to find image similar to my ispiration demo design but couldn't. So in the end I took the screenshot of upper part of demo design app background where nothing present in foreground than I my AI/Photo Tools to create me a image. 
+Now for my second page, which is third page in my [design](/Design%20Files/App%20-%20Design Prototype.fig) & [PDF file](/Design%20Files/App%20-%20Design Prototype.pdf) and [design link](https://www.figma.com/proto/HkUSI31MVv0qXiG7rw6Zb7/App?node-id=1%3A58&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2), I was looking for Background image. I was trying to find image similar to my ispiration demo design but couldn't. So in the end I took the screenshot of upper part of demo design app background where nothing present in foreground than I my AI/Photo Tools to create me a image. 
 
 
 
@@ -77,7 +77,7 @@ I've created this [Youtube playlist](https://youtube.com/playlist?list=PLCqikY1Z
 
 #### Design
 
-- To edit design download this [.fig file](Design Files/App - Design Prototype.fig).
+- To edit design download this [.fig file](Design%20Files/App%20-%20Design Prototype.fig).
 - Launch Figma (either [online](https://www.figma.com/) or from [Figma App](
 https://www.figma.com/downloads/))
 - Load the downloaded file.
