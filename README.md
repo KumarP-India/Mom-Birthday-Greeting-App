@@ -28,7 +28,7 @@ __Mar. 2'23__: I created the GitHub Repo. and _commit_: \[[7a02a05](https://gith
 __Mar. 2'23__: From Android Studio. _commit_: \[[77096f9](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/commit/77096f96a132ba3f64c94267396b507905e18e71), [083af7c](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/commit/083af7c81b93480ab85f8ec4cd05483205a31ceb)] in Branch [Version 1](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/tree/Version-1). And _Merge Pull request_: [d25812f](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/commit/d25812fd5a0fe0112c1a49c3e7b2bd43823751be)
 
 
-__Mar. 8'23__: Official Postponiong with _commit_: [0f61267](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/commit/0f612670bd871e9802d85d241452e8e37401596c). 
+__Mar. 8'23__: Official Postponiong with _commit_: from [0f61267](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/commit/0f612670bd871e9802d85d241452e8e37401596c) to [2727a8a](https://github.com/Kumar-P05/Mom-Birthday-Greeting-App/commit/2727a8a853411181dc47f21c141af5bdc6406e63). 
 _This commit which updates commit history is not included as it's imposible to get the link or SHA before commiting!_
 
 
