@@ -1,6 +1,8 @@
 # Mom-Birthday-Greeting-App
 This app presents different texts, GIFs & photos to greet my mother on her birthday, and hopefully make her laugh.
 
+> During development I was not able to find a way to intreage GIF and espcially MP4 as many of the animation were based on that. So in the end, due to lack of skill I decided to just show the prototype. The prototype only include 1 photo of my mother so I creted another design from it and added all of the photos. This is private but original one will be still availbale. And if you guys do create it, don't hesitate create pull request. With that said this development is postponed!
+
 You can see the design from [For You Section](#for-you)
 ## Frames
 
